@@ -5,5 +5,5 @@ $sqlresult = $db->fetch_all_array($sql);
 foreach($sqlresult as $row){
 	echo $row['message'];	
 }
-echo "hello world v2!";
+echo "hello world be free v2!";
 ?>
