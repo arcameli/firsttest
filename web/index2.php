@@ -1,4 +1,9 @@
 <?php
-error_reporting(E_ALL);
-ini_set('display_errors', 1);
-require __DIR__ . '/src/app.php';
+include_once("dataconfig.php");
+$sql = "SELECT * FROM urler";
+$sqlresult = $db->fetch_all_array($sql);
+foreach($sqlresult as $row){
+	echo $row['message'];	
+}
+echo "hello world be again free v2!";
+?>
