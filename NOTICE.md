@@ -1,4 +1,4 @@
-# AWS OpsWorks PHP Demo App
+# Docker Cloud / AWS / RDS Build
 
 <https://github.com/aws/>
 
