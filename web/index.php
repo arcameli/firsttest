@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     
-    <title>Droplet -App landing page</title>
+    <title>Coordinating Your Social Media</title>
 
     <!-- Mobile Specific Metas
   ================================================== -->
